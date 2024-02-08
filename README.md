@@ -1,3 +1,4 @@
+![damnba](https://github.com/TuncerCemUgurluer/multi_agent_podcast/assets/159438469/040af739-961c-4a43-a8b0-54606dbfec96)
 
 
 
