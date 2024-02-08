@@ -1,5 +1,5 @@
-![damnba](https://github.com/TuncerCemUgurluer/multi_agent_podcast/assets/159438469/040af739-961c-4a43-a8b0-54606dbfec96)
 
+![damnba](https://github.com/TuncerCemUgurluer/multi_agent_podcast/assets/159438469/abee1302-1962-48c6-bee8-8f25d24169f9)
 
 
 # This project is a simulation of a podcast program featuring historical figures engaging in discussions about contemporary issues. Each historical figure is represented by an AI agent programmed to emulate their personality and communication style. The program is designed to showcase the capabilities of multi-agent communication and natural language processing in simulating dynamic conversations.
