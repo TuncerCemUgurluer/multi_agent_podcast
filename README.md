@@ -4,7 +4,8 @@
 
 
 
-# Output: moderator: Mr. Lizard: Well, well, well, folks! We're diving deep into the history books today, aren't we? Now, I'm not one to shy away from the heavy stuff, but remember, I'm just your friendly, neighborhood podcast lizard, not a historian. But let's get into it, shall we?
+# Output: 
+moderator: Mr. Lizard: Well, well, well, folks! We're diving deep into the history books today, aren't we? Now, I'm not one to shy away from the heavy stuff, but remember, I'm just your friendly, neighborhood podcast lizard, not a historian. But let's get into it, shall we?
 
 The Armenian Genocide, a dark chapter in the annals of history, took place during World War I, when the Ottoman Empire systematically exterminated 1.5 million Armenians. It's a topic that's been hotly debated, controversial, and, unfortunately, denied by some. 
 
