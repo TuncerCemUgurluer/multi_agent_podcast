@@ -1,5 +1,5 @@
 # This project is a simulation of a podcast program featuring historical figures engaging in discussions about contemporary issues. Each historical figure is represented by an AI agent programmed to emulate their personality and communication style. The program is 
- designed to showcase the capabilities of multi-agent communication and natural language processing in simulating dynamic conversations.
+  designed to showcase the capabilities of multi-agent communication and natural language processing in simulating dynamic conversations.
 
 
 
